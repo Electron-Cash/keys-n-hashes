@@ -1,0 +1,1 @@
+2328f78e888f0764a07043d98928b0e37b84cf22  Electron-Cash.2.9.0-macosx.dmg
