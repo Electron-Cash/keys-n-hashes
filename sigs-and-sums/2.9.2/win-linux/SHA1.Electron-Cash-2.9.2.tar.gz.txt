@@ -1,0 +1,1 @@
+10b5e65608e452a174d28b5030796d6a712e8cb7  Electron-Cash-2.9.2.tar.gz
