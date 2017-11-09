@@ -1,0 +1,1 @@
+a7a780c049f26734dd9fb8ff6eb6646546bfa638  Electron-Cash-2.9.4.exe
