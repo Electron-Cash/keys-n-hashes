@@ -1,0 +1,1 @@
+4fbfc5fd8cb6328b437281a27db72859143c66ff  Electron-Cash-2.9.4-VERBOSE.exe
