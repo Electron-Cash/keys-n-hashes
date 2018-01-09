@@ -1,0 +1,1 @@
+c355e0edb9d2253ce9b87c50c83412b10b84f7fefafd06c9907a0ab69c2404a2  ElectronCash-3.1.2.tar.gz
