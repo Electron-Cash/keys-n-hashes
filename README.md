@@ -2,6 +2,10 @@
 
 ### 1. Get all the files needed for verification
 
+At the time this readme was created, the latest version was 3.1.6.  
+The current latest version may be newer.  Normally, you always should
+be using the latest version.
+
     https://electroncash.org/downloads/3.1.6/win-linux/ElectronCash-3.1.6.exe
 from [electroncash.org](https://electroncash.org/downloads/3.1.6/win-linux/ElectronCash-3.1.6.exe), and 
 
