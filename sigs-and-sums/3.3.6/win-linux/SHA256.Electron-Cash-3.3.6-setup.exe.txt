@@ -1,0 +1,1 @@
+7dc86d434d2861aec99c41938df672a5c612f3a8ca96f6e24c05daf6355841d7  Electron-Cash-3.3.6-setup.exe
