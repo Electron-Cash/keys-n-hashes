@@ -1,0 +1,1 @@
+563ab4c5d330ed269358875da9a1e4ca9eb232b56c72df5a0918607f71a7e693  Electron-Cash-SLP-3.4.5-setup.exe

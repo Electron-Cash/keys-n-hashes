@@ -1,0 +1,1 @@
+bbf4edf50ea995010744225d2a655db7330c15c3fd3ed20ad759e7d80429ef05  Electron-Cash-SLP-3.4.5-portable.exe
