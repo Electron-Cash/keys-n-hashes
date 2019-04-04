@@ -1,0 +1,1 @@
+fb3381b9f25796e8259a0062bbdb9c5eb0e8f79148d03b45c55f6a7ababd0c4f  Electron-Cash-4.0.1-setup.exe
