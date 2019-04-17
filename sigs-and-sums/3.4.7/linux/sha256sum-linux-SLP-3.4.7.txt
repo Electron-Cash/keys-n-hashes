@@ -1,0 +1,2 @@
+64df1a80593410ac15a19d77980147ca5ed4292796188ce8f81e0543532fe760 Electron-Cash-SLP-3.4.7-x86_64.AppImage
+f984dcb9292e938589ead502eb7c6a708bcb1dd4f732c177c163e8dac2aca09b Electron-Cash-SLP-3.4.7-x86_64.AppImage.asc
