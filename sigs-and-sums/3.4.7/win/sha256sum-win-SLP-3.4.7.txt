@@ -1,0 +1,6 @@
+e3537a47ef78af195b20ca98e660741a8a6cd69c1465ea4e497c1c9b3413714d Electron-Cash-SLP-3.4.7-portable.exe
+a8de3742e9d2f5290a86a078fb4c77fb3596387610ef9150b0837c59c24bcf84 Electron-Cash-SLP-3.4.7-portable.exe.asc
+f62be0e5b47a31f21d70813fa0d7e661335170baaf78731282f3b50cc41b1f08 Electron-Cash-SLP-3.4.7-setup.exe
+e3826b3a93ad206c232454f190e8d875cd7243dd0e51510ae8c5a2b3a6e37f77 Electron-Cash-SLP-3.4.7-setup.exe.asc
+e2f3c916f66c66578c462d8b463b8b231754b93c43f04bead650b6e82c020b69 Electron-Cash-SLP-3.4.7.exe
+2cf2bbd34e2f7589eff9a45c266ff2cc0422573db0bc60c66cdc9605ef01384a Electron-Cash-SLP-3.4.7.exe.asc
