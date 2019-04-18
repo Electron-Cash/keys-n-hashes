@@ -1,2 +1,4 @@
 64df1a80593410ac15a19d77980147ca5ed4292796188ce8f81e0543532fe760 Electron-Cash-SLP-3.4.7-x86_64.AppImage
 f984dcb9292e938589ead502eb7c6a708bcb1dd4f732c177c163e8dac2aca09b Electron-Cash-SLP-3.4.7-x86_64.AppImage.asc
+a1396e29e5afda45bfe8bfb1a09e8a7c7fd16f6890d86590e5aad53c3369b600 Electron Cash SLP-3.4.7.tar.gz
+a98101ab5c3096912941e0e506eddf249e9ac272cc9136e69d4d7e15f19adb80 Electron Cash SLP-3.4.7.zip
