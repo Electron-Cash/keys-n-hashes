@@ -1,2 +1,2 @@
-4d11c0bb1f5a5cc5c471eff41880db9aa354be6aeeb08b716f67b9c8d44cdde2 Electron-Cash-SLP-3.4.7-macosx.dmg
-ed72238d85350958160b31c910bd41e49673762df958b2bf02e0b708f24c2d33 Electron-Cash-SLP-3.4.7-macosx.dmg.asc
+48994470ce76ef7df025ff9e0dace8c6e94ee1abae8a1a0812a7e01fc3245cda Electron-Cash-SLP-3.4.7-macosx.dmg
+38a3783dd821abb934022d0f7cba3004395721586fb6a58c72bb6287ee1c5b62 Electron-Cash-SLP-3.4.7-macosx.dmg.asc
