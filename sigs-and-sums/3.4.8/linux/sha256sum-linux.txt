@@ -1,0 +1,6 @@
+62142e2fa63846138b856c71edd53ebc9e9d8f7b1099d666cb749d003a16b47b  ./Electron Cash SLP-3.4.8.tar.gz
+559e124f605018e0bab3c8a040956986e87daf6a2fafe1408914c97ac079d683  ./Electron Cash SLP-3.4.8.tar.gz.asc
+9265ab2d762c08e2559c6ff384ee747c17bcd5122f1f0ba39d515e33c057e8c8  ./Electron Cash SLP-3.4.8.zip
+af3fc84b85abee25c3c930dc94f7271e86598b15fbd8159db130d730ba19d5f3  ./Electron Cash SLP-3.4.8.zip.asc
+ebbbaf3ef68badbfa162954dc068118c83795db91f88c4f141455f8f77ccc660  ./Electron-Cash-SLP-3.4.8-x86_64.AppImage
+400ec7276367976386bfbef622191faefa6cf917c17784eab38ca289b50f5e9c  ./Electron-Cash-SLP-3.4.8-x86_64.AppImage.asc

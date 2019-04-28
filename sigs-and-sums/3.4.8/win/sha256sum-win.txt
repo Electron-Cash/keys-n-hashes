@@ -1,0 +1,6 @@
+ecffa31a836ef5f69be255502b3250b94ca43c98cdd683c881fa038cccc9bb8f  ./Electron-Cash-SLP-3.4.8-portable.exe
+6e2ace2dffa51d4ffe38061bd68d306b8d9270a152d8c149dcfd126f7c3a5f10  ./Electron-Cash-SLP-3.4.8-portable.exe.asc
+9ec2185ed9b5f44896d1dd977ed53ab55bf7459fffd5b6610a023f85cff8d890  ./Electron-Cash-SLP-3.4.8-setup.exe
+abc684f946c9b092570b7cc7e3f2c88ab625ea1ec645edc276fad2b4b91f4b1f  ./Electron-Cash-SLP-3.4.8-setup.exe.asc
+62ef8348b1471881e67f44267bbbb3088ecc1009752fa5d8cdcb30f39eede83d  ./Electron-Cash-SLP-3.4.8.exe
+8c5da269ed5a8acbac2c02ef7dcf9fa02098914d2f8cd49b255527d1386272cb  ./Electron-Cash-SLP-3.4.8.exe.asc
