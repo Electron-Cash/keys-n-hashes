@@ -1,0 +1,12 @@
+e54b1382be011b6c1f0d37bf9596a9b8e5ac61e51b18d364daf423d06e9baa81  Electron-Cash-SLP-3.4.10-portable.exe
+3a59ee12410688e843e059fe63f8e7834f00d0c13f9e78993c81e04e40cff487  Electron-Cash-SLP-3.4.10-portable.exe.asc
+604392b7a47ce664d5bc7fe258257dcdd7be6e4cc2d1f6c9385d4dbac25d7881  Electron-Cash-SLP-3.4.10-setup.exe
+d5fc744c85ffa580f03e85271b56cf9fc0e7d1d54bd5c5cbdf006264255a918e  Electron-Cash-SLP-3.4.10-setup.exe.asc
+42e2324be2f491f8786ef091f46a9a8d29a0b28e4d7b27c7a00f4e172794c532  Electron-Cash-SLP-3.4.10-x86_64.AppImage
+2b6cd88ff84e450eba5102d3f994302fec24a0b6670e7a0c86a633be6de8b8ea  Electron-Cash-SLP-3.4.10-x86_64.AppImage.asc
+7cd67e7cf55d0ba468486d0b14ee6d55eab0baed41e9d96cf7b8a1720a9d3663  Electron-Cash-SLP-3.4.10.exe
+288812b800a1ca5bef51e64281b2f2da36dc293faea4d62e98ce20ac6c07539f  Electron-Cash-SLP-3.4.10.exe.asc
+c4b4789403b9f1268c25d5ae9ad3a19b631699f35cdd37c9a45ca0584b9eb058  Electron-Cash-SLP-3.4.10.tar.gz
+9a797fdcfa950c6666d7548923bd4ed5380ceec6f2c25cbf602edd62c1028fec  Electron-Cash-SLP-3.4.10.tar.gz.asc
+f7588a02eb2784dabe5395c08aec7acdffd9eeda9013fd02e36d2f9fa641a836  Electron-Cash-SLP-3.4.10.zip
+1818eb1907863e10aa17134619dab396750600b7ab1cfe18a15afd085ea563ef  Electron-Cash-SLP-3.4.10.zip.asc
