@@ -1,0 +1,12 @@
+b95551007a2e7a234db5e9101458e22eedf1d40e9a10bd373cb56e20d05607f8  ./Electron-Cash-SLP-3.4.11-portable.exe
+9b83bf774c0a71e2875764c833ff33beeef076906744e8d43186d0471edd8a3e  ./Electron-Cash-SLP-3.4.11-portable.exe.asc
+e1a6e52d594ab541bcabad2aa0473c850b01f3577174f07dbfd5dd70e134996a  ./Electron-Cash-SLP-3.4.11-setup.exe
+70865029cba58b86245a0fa688b8c2eefe82af56829218cefdc8fab910b1c654  ./Electron-Cash-SLP-3.4.11-setup.exe.asc
+bdc56147003fe373169a2dd97fffe1cbc0124a793c27b52ce16b8e527f33f4f3  ./Electron-Cash-SLP-3.4.11-x86_64.AppImage
+f68033e84b90a3e2652fecc88564f1ed8c9936118ae0b94019892343dfa096cd  ./Electron-Cash-SLP-3.4.11-x86_64.AppImage.asc
+053c9d51ee72353d169d7dcceaf6858d374ce83847541918e980914990e6abd3  ./Electron-Cash-SLP-3.4.11.exe
+dc39358d7db8bfc805a0ca81c6a25b18fabb62577fb6a13ff244b8d4f482ece3  ./Electron-Cash-SLP-3.4.11.exe.asc
+3f7244eba3596fb343c9eb0b2640e8716a2323691d1d60eaeec2613c32cdcf9c  ./Electron-Cash-SLP-3.4.11.tar.gz
+0dd724c50677661b3cd882a1c04ec124296cc320a07bdfd199bdb1dbd671fe9a  ./Electron-Cash-SLP-3.4.11.tar.gz.asc
+8598a070e8a67affbe02e479b6e5754ddebaa7ac5d1e6d9f320f44a6365502be  ./Electron-Cash-SLP-3.4.11.zip
+76eedff5b04603275522b43e9240e47b4fe07a133e4e66c7e428b6b085f26b72  ./Electron-Cash-SLP-3.4.11.zip.asc
