@@ -1,0 +1,2 @@
+81cc2044b2ce1eeec9b1f24eed4a841587e18eb2d9a12e96e0b3b0e27de96c6b  ./Electron-Cash-SLP-3.4.12-macosx.dmg
+1900e86d0514b3f738a17938556210f422a4452ddf60c0c5abff9dc46e367bf3  ./Electron-Cash-SLP-3.4.12-macosx.dmg.asc
