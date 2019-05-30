@@ -1,3 +1,5 @@
+d9395cf47d587ec1d9f53ed4e7dce45042dfc762dd57eb22b409d6994acfd227  ./Electron-Cash-SLP-3.4.13-g9295cb2-x86_64.AppImage
+2d8234284840eb9b6faf7fec825986548e1282a8bb236ce6919262c4cd5b2620  ./Electron-Cash-SLP-3.4.13-g9295cb2-x86_64.AppImage.asc
 a2ca20d42713453c5885253fed81ce9afe81ec3c7432acad96990ce30a130725  ./Electron-Cash-SLP-3.4.13-portable.exe
 53b271e0658eeffc4ae2c93006511e605d9bf90b588929078bc2a54e0ec5a96b  ./Electron-Cash-SLP-3.4.13-portable.exe.asc
 4a6068b0edf7fda1c491941dd498aa1bca1c23e93b29cda114498bd6fe4b8e33  ./Electron-Cash-SLP-3.4.13-setup.exe
