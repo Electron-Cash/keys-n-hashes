@@ -1,0 +1,1 @@
+0f11f68dfd113d40ee358da6c32ef5e9e34bb9192b58976c763f461917344caf  Electron-Cash-4.0.10.exe
