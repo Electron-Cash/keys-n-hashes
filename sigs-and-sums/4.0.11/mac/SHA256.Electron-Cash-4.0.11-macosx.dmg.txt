@@ -1,0 +1,1 @@
+ab90d13ac2c8fcb7d934f6881d1de54e5d5a27918f2d2e8c9843b34128849bfc  Electron-Cash-4.0.11-macosx.dmg

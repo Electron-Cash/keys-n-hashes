@@ -1,0 +1,1 @@
+72d0e5e94c8f0bffdd4b2b14292e1fc57c5a13ca3620171bd4555fb858337977  Electron-Cash-4.0.11-macosx-elcapitan.dmg
