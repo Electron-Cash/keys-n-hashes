@@ -1,0 +1,1 @@
+5401fb895ba436b0838a91f9f80dfc23ba967c200c2141a93b84a5a72180f385  /Users/jamescramer/Desktop/3.6.0/Electron-Cash-SLP-3.6.0-x86_64.AppImage
