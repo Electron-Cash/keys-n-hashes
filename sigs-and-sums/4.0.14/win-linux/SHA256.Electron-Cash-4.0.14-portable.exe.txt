@@ -1,0 +1,1 @@
+fabfdb7adcad476d0788004372f07969dbda5d453a8345c78c764999960755d8  Electron-Cash-4.0.14-portable.exe
