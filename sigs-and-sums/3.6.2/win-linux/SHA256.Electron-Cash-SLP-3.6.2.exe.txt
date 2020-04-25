@@ -1,0 +1,1 @@
+a05521ca4673c6531ff755ddf14c12a87009b8fbb8ec63d0998931d7e0cfaf21  ./Electron-Cash-SLP-3.6.2.exe

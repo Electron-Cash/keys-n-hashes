@@ -1,0 +1,1 @@
+4f11bd8583c11a6cf0ccda14efbde715c7cf849f254234f219c56995adfc34b7  ./Electron-Cash-SLP-3.6.2-macosx-elcapitan.dmg

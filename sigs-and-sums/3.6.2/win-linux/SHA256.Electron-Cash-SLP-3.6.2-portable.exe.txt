@@ -1,0 +1,1 @@
+2bb7c2036ca6c40307b4db7b1320fd1f981747544cfffd03b1b99306c30354e5  ./Electron-Cash-SLP-3.6.2-portable.exe
