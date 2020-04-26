@@ -1,0 +1,1 @@
+344e4706e4a8b435aeef5f23ea904275b6445c94216afd3566a4997522e19918  ./Electron-Cash-SLP-3.6.2-setup.exe
