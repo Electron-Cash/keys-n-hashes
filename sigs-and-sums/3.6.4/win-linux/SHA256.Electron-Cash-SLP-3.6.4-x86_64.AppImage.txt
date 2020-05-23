@@ -1,0 +1,1 @@
+bcc3c8f99e5bb2ac0a693ad4ed126069750a88d7de639a78d0c399b02e737400  ./Electron-Cash-SLP-3.6.4-x86_64.AppImage
