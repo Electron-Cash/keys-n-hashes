@@ -1,0 +1,1 @@
+00d7a30ab0d5a8d3dd5fcb162c33c44f06ca51fdec8159153c37ad27e4f21d32  ./Electron-Cash-SLP-3.6.4-macosx.dmg
