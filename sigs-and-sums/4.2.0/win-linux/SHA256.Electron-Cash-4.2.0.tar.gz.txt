@@ -1,0 +1,1 @@
+8df6026db0dc35e5b2f9e188581f145dd422adc94ebb1e18d229f27dea5dbdb5  Electron-Cash-4.2.0.tar.gz
