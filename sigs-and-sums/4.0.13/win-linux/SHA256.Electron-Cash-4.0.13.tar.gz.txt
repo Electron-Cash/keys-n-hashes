@@ -1,1 +1,1 @@
-d67b3ddbfee5d76590dc70fee00aa65160a8bebc47b4463f5895a09ff6e8eab0  Electron-Cash-4.0.13.tar.gz
+5cb2537789dcc57fb19937a59c29191701ba6faab0d6551b662f300038d81b00  Electron-Cash-4.0.13.tar.gz
