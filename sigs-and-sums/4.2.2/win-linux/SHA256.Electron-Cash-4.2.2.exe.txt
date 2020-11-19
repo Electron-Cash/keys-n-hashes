@@ -1,0 +1,1 @@
+449dbbf693ad0c55ecbea8e1927ef125f46f44248475d6313f1955f895ca40de  Electron-Cash-4.2.2.exe
