@@ -1,1 +1,1 @@
-efe71433282cdee8902382cd0264eb1397adf983ad639a4ff99a800bcde3cddb  Electron-Cash-4.2.6.exe
+d48732f2fe3276c77266180c9c52c556bfaac7c267c8b4c4cd3ba1db3e284946  Electron-Cash-4.2.6.exe

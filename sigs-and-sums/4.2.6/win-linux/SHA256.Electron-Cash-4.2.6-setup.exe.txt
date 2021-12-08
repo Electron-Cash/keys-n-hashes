@@ -1,1 +1,1 @@
-b4188aa60fbfbf76cd8aeabb706492028301e5ce1d84c3bedfba00f5860a23f3  Electron-Cash-4.2.6-setup.exe
+e5bf47213a04f4ab05d83ae8bf4fbf2a199cc71e27076ec7965235c7d288507a  Electron-Cash-4.2.6-setup.exe

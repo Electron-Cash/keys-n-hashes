@@ -1,1 +1,1 @@
-ff48638a0a18585476aa37e6d086edd06d95c0791ea8eecacbe0cd7c18a880ca  Electron-Cash-4.2.6.zip
+86bb4cc643cd5672a950c151250e28c01cb2b056bc74ec3f163529c75813ecd9  Electron-Cash-4.2.6.zip
