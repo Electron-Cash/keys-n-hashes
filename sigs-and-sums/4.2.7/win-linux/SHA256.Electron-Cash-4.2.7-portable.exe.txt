@@ -1,0 +1,1 @@
+683a19b59696c8cfecad43219d28d988f07dedb962bb17d7d1ece18bd944eb75  Electron-Cash-4.2.7-portable.exe
