@@ -1,0 +1,1 @@
+b5fa8a8f445cbb093ac1a0841abb26d9d24d4755397a2e2c08322987444b20cb  Electron-Cash-4.2.10-portable.exe
