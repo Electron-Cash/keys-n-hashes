@@ -1,0 +1,1 @@
+491c5d0a2dc6193f595ceb736025a438bcedda670bd7b7a8b86bb5b9cb7d1593  Electron-Cash-4.2.11.tar.gz

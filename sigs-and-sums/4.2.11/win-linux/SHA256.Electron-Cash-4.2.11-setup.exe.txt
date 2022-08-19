@@ -1,0 +1,1 @@
+7ea73fd1b96518ee9b04024e01d243ceec97075bb77f76d7ded0eca8a577bed5  Electron-Cash-4.2.11-setup.exe
