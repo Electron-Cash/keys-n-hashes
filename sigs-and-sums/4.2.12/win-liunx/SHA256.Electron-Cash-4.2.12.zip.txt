@@ -1,1 +1,0 @@
-92accd23ca18fe4005477b60f4df5bd2f61e762c95f805aaf0f2b97164bbb5c7  Electron-Cash-4.2.12.zip
