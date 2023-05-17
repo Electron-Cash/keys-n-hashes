@@ -1,0 +1,1 @@
+cadafe571bf55190e49a14d8ec38e894ecf38ce41b25594c08b708c5fa89434e  Electron-Cash-4.3.0-x86_64.AppImage
