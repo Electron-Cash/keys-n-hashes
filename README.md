@@ -17,7 +17,7 @@ Electron-Cash-4.2.11.exe.asc
 SHA256.Electron-Cash-4.2.11.exe.txt
 ```
 
-###  2. Verify SHA256 digest hash
+### 2. Verify SHA256 digest hash
 
 Download and install [7-zip](https://www.7-zip.org/download.html) software.
 
@@ -26,7 +26,6 @@ Right click on `ElectronCash-4.2.11.exe` and calculate sha256, which should be i
 ![](https://github.com/mpapec/docs/blob/master/sha256_1.png)
 
 ![](https://github.com/mpapec/docs/blob/master/sha256_2.png)
-
 
 ### 3. Verify author signature of executable file (optional step)
 
@@ -65,7 +64,6 @@ Primary key fingerprint: D56C 110F 4555 F371 AEEF  CB25 4FD0 6489 EFF1 DDE1
 
 ## Verification of Electron cash official executables on Linux
 
-
 ### 1. Get all the files needed for verification
 
 At the time this readme was updated, the latest version was 4.2.11  
@@ -83,14 +81,14 @@ Electron-Cash-4.2.11-x86_64.AppImage.asc
 SHA256.Electron-Cash-4.2.11-x86_64.AppImage.txt
 ```
 
-###  2. Verify SHA256 digest hash
+### 2. Verify SHA256 digest hash
 
 On command line run a command:
 
 ```sh
 cat SHA256.Electron-Cash-4.2.11-x86_64.AppImage.txt && openssl sha256 -r Electron-Cash-4.2.11-x86_64.AppImage
-``` 
-    
+```
+
 which should confirm that both SHA256 hashes are identical:
 
 ```sh
@@ -156,7 +154,8 @@ Electron-Cash-4.2.11-macosx.dmg.asc
 Electron-Cash-4.2.11-macosx.dmg.sha256sum
 ```
 
-###  2. Verify SHA256 digest hash
+### 2. Verify SHA256 digest hash
+
 On command line run a command,
 
 ```sh
@@ -166,7 +165,7 @@ cat Electron-Cash-4.2.11-macosx.dmg.sha256sum && openssl sha256 -r Electron-Cash
 which should confirm that both SHA256 hashes are identical:
 
 ```sh
-e10ee7b1bff75207087c489d1ad868dbc39be292ef6b53daa9b1f1c62d7db4fc *Electron-Cash-4.2.11-macosx.dmg
+e10ee7b1bff75207087c489d1ad868dbc39be292ef6b53daa9b1f1c62d7db4fc Electron-Cash-4.2.11-macosx.dmg
 e10ee7b1bff75207087c489d1ad868dbc39be292ef6b53daa9b1f1c62d7db4fc *Electron-Cash-4.2.11-macosx.dmg
 ```
 
