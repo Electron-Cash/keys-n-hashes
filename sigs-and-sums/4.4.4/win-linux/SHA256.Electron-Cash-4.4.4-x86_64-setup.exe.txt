@@ -1,0 +1,1 @@
+698e37a864ab7ce8c0b974fe72077749dda7d370ada57be5011cbcb21c2784b6  Electron-Cash-4.4.4-x86_64-setup.exe
