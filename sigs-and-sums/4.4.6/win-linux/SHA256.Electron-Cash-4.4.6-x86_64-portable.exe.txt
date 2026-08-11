@@ -1,0 +1,1 @@
+1258fc34f6403bf3d28fbdcc9f08023005af066fa8071d8e12d682a9f3ad368a  Electron-Cash-4.4.6-x86_64-portable.exe
